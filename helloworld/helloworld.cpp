@@ -18,5 +18,5 @@ int main()
         cout << word << " ";
     }
     cout << endl;
-    printf("helloworld");
+    printf("hellowld");
 }
