@@ -62,7 +62,8 @@
 				"$gcc"
 			],
 			"group": "build",
-			"detail": "编译器: C:\\MinGW\\bin\\cpp.exe"
+			"detail": "编译器: C:\\MinGW\\bin\\cpp.exe",
+			"edd":""
 		}
 	]
 }
