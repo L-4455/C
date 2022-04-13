@@ -1,7 +1,7 @@
 {
     "configurations": [
         {
-            "name": "GCC",
+            "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**"
             ],
@@ -10,10 +10,10 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "D:\\mingw-w64\\mingw64\\bin\\gcc.exe",
-            "cStandard": "gnu17",
+            "compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+            "cStandard": "gnu11",
             "cppStandard": "gnu++14",
-            "intelliSenseMode": "windows-gcc-x64"
+            "intelliSenseMode": "windows-gcc-x86"
         }
     ],
     "version": 4
