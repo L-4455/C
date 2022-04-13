@@ -1,14 +1,14 @@
 /** 
  * @author: LiZhiHao
  * @Date: 2022-04-09 11:57:40
- * @LastEditTime: 2022-04-09 12:08:11
+ * @LastEditTime: 2022-04-13 22:15:02
  */
 
 #include <stdio.h>
 
 int main() {
   /*
-      è¾“å‡º99ä¹˜æ³•è¡¨
+      99³Ë·¨±í
   */
   for (int i = 1; i <= 9; i++) {
     for (int j = 1; j <= i; j++) {

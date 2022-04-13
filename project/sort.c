@@ -1,3 +1,8 @@
+/** 
+ * @author: LiZiHao
+ * @Date: 2022-04-13 22:12:24
+ * @LastEditTime: 2022-04-13 22:15:26
+ */
 /**
  * @author: LiZhiHao
  * @Date: 2022-04-09 11:33:37
@@ -7,10 +12,10 @@
 
 int main() {
   /**
-   * 浠绘剰涓変釜鏁版寜浠庡ぇ鍒板皬鎺掑簭
+   * 请输入三个数字,按从大到小输出
    */
   int num1, num2, num3, t;
-  printf("璇疯緭鍏ヤ笁涓暟:\n");
+  printf("请输入3个数值\n");
   scanf("%d %d %d", &num1, &num2, &num3);
 
   if (num1 < num2) {
