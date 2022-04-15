@@ -1,21 +1,17 @@
-/** 
+/**
  * @author: LiZiHao
  * @Date: 2022-04-13 22:12:24
  * @LastEditTime: 2022-04-13 22:15:26
  */
-/**
- * @author: LiZhiHao
- * @Date: 2022-04-09 11:33:37
- * @LastEditTime: 2022-04-09 11:34:45
- */
+
 #include <stdio.h>
 
 int main() {
   /**
-   * ÇëÊäÈëÈı¸öÊı×Ö,°´´Ó´óµ½Ğ¡Êä³ö
+   * éšæœºè¾“å…¥ä¸‰ä¸ªæ•´æ•°,æŒ‰ä»å¤§åˆ°å°æ’åº
    */
   int num1, num2, num3, t;
-  printf("ÇëÊäÈë3¸öÊıÖµ\n");
+  printf("è¯·è¾“å…¥ä¸‰ä¸ªæ•´æ•°:Öµ");
   scanf("%d %d %d", &num1, &num2, &num3);
 
   if (num1 < num2) {
@@ -33,5 +29,5 @@ int main() {
     num2 = num3;
     num3 = t;
   }
-  printf("%d > %d > %d",num1,num2,num3);
+  printf("%d > %d > %d", num1, num2, num3);
 }

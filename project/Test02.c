@@ -6,11 +6,14 @@
 #include<stdio.h>
 
 int main(){
+    /**
+     * 100ä¹‹å†…çš„éšæœºæ•°ç´¯åŠ 
+     */
     int num , number = 100,sum = 0;
-    printf("ÇëÊäÈë100ÒÔÄÚµÄÊı\n");
+    printf("è¯·è¾“å…¥100ä¹‹å†…çš„æ•´æ•°:\n");
     scanf("%d",&num);
     for(num; num <= number;num++){
         sum= sum+num;
     }
-    printf("Õâ¸öÊıÀÛ¼Óµ½100Îª: %d",sum);
+    printf("è¯¥æ•°ç´¯åŠ åˆ°100ä¸º:%d",sum);
 }

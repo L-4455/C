@@ -6,5 +6,7 @@
 #include<stdio.h>
 
 int main(){
-    printf("Œ“≤¡");
+    printf("HelloWorld\n");
+
+    return 0;
 }

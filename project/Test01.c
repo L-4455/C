@@ -8,7 +8,7 @@
 int main() {
   printf("HelloWorld\n");
   int num;
-  printf("请输入一个数字\n");
+  printf("鎴戞槸浣犵埞\n");
   scanf("%d", &num);
   return 0;
 }
