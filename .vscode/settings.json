@@ -1,4 +1,4 @@
-{
+{   "editor.matchBrackets": "near",
     "files.associations": {
         "stdio.h": "c"
     }
