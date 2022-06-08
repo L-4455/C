@@ -1,3 +1,9 @@
+/** 
+ * @Date: 2022-05-18 16:10:31
+ * @LastEditors: LiZiHao
+ * @LastEditTime: 2022-05-18 21:24:11
+ */
+
 #include <stdio.h>
 void tell_story(char plice[8], char person1[10],
                 char person2[10])  //定义函数，必须先定义，再使用
